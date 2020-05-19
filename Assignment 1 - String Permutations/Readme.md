@@ -1,0 +1,1 @@
+The program finds out all the permutation of a shortStr mentionned from the longStr that is given.
